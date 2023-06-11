@@ -21,7 +21,7 @@ public class P02_PathParamTest {
     @BeforeAll
     public static void init(){
 
-        RestAssured.baseURI= "http://100.26.138.222:8000";
+        RestAssured.baseURI= "http://3.84.238.149:8000";
     }
 
 
